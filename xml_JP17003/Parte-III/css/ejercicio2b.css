@@ -1,0 +1,7 @@
+/*ejercicio2b.css JP17003*/
+pais {background-color:#d56329;} 
+departamento {background-color:#d6aa21; display:block;} 
+cabecera {color:#158598; font-style: italic; font-size: 0.5cm; display:inline;} 
+habitantes {color:#0a9714; display:inline;} 
+altura{color:#6830af; display:block;}
+areaTerritorial{color:#1a2055; display:inline;}

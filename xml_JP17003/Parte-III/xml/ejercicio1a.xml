@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="/Parte-III/css/ejercicio1a.css" ?>
+<!-- ejemplo1.xml  JP17003 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <ficha id="2" fechaingreso="3/11/2021">
+    <nombre>Edwin</nombre>
+    <apellido>Jiménez</apellido>
+    <direccion>Calle Principal, Barrio San Isidro, 26</direccion>
+    <telefono>76243870</telefono>
+    <email>jp17003@ues.edu.sv</email>
+    <website>github.com/jedwin98</website>
+  </ficha>
+</fichero>

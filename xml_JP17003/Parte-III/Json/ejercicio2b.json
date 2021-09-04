@@ -1,0 +1,34 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"Dolar Estadounidense",
+		"@codigoArea":"+503",
+		"@idioma":"Español, Nahuatl, Inglés",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM",
+				"areaTerritorial":"886.2 km^2"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Paz",
+				"cabecera":"Zacatecoluca",
+				"habitantes":"320,379",
+				"altura":"450 MSNM",
+				"areaTerritorial":"1223.61 km^2"
+			},
+			{
+				"@id":"3",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa Ana",
+				"habitantes":"631,100",
+				"altura":"500 - 3000 MSNM",
+				"areaTerritorial":"2023 km^2"
+			}
+		]
+	}
+}

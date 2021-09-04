@@ -1,0 +1,12 @@
+/*ejercicio1b.css JP17003*/
+fichero {background-color:#127fb6;} 
+ficha {background-color:#5234d6; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:#fcd3c2; display:inline;} 
+direccion {color:yellow; display:block;}
+telefono {color:white; display:block;}
+email{color: #ffd7ce; display:block;}
+website{color:white; display:block; font-style: italic; text-decoration: underline  red;}
+dui{color: #a0db17; display: block;}
+isss{color: #159ee4; display: inline;}
+afp{color:red; display: inline;}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="/Parte-III/css/ejercicio2a.css" ?>
+<!-- ejemplo2.xml  JP17003 -->
+<pais nombre="El Salvador" moneda="Dolar Estadounidense" codigoArea="+503" idioma="Español, Nahuatl, Inglés">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <areaTerritorial>886.2 km^2</areaTerritorial>
+  </departamento>
+  <departamento id="2" nombre="La Paz">
+    <cabecera>Zacatecoluca</cabecera>
+    <habitantes>320379</habitantes>
+    <altura>450 MSNM</altura>
+    <areaTerritorial>1223.61 km^2</areaTerritorial>
+  </departamento>
+</pais>

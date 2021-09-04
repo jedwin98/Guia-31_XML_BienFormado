@@ -1,0 +1,34 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"3/11/2021",
+				"nombre":"Edwin",
+				"apellido":"Jiménez",
+				"direccion":"Calle Principal, Barrio San Isidro, 26",
+				"telefono":"76243870",
+				"email":"jp17003@ues.edu.sv",
+				"website":"github.com/jedwin98"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"3/11/2021",
+				"nombre":"Edwin",
+				"apellido":"Jiménez",
+				"direccion":"Calle Principal, Barrio San Isidro, 26",
+				"telefono":"76243870",
+				"email":"jp17003@ues.edu.sv",
+				"website":"github.com/jedwin98",
+				"dui":"12345678-0",
+				"isss":"1230334349712930174",
+				"afp":"930478646-0"
+			}
+		]}
+}

@@ -1,0 +1,9 @@
+/* ejercicio1a.css JP17003 */
+fichero {background-color:green;} 
+ficha {background-color:blue; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:orange; display:inline;} 
+direccion {color:yellow; display:block;}
+telefono {color:white;display:block;}
+email{color:red;display:block;}
+website{color:white;display:block;font-style: italic;text-decoration: underline  red;}
